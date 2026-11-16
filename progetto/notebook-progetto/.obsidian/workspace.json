@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Assignment.md",
+                "file": "00 - Project Assignment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Assignment"
+              "title": "00 - Project Assignment"
             }
           }
         ]
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Assignment.md",
+                "file": "00 - Project Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Assignment.md",
+                "file": "00 - Project Assignment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,7 +190,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -209,7 +210,13 @@
   },
   "active": "ade3a06248ed7d51",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Project Assignment.md"
+    "Project Assignment.pdf",
+    "00 - Project Assignment.md",
+    "01 - Project Setup.md",
+    "05 - Discussione del progetto.md",
+    "04 - Implementazione e Testing.md",
+    "02 - Requirements Engineering.md",
+    "03 - Design & Design di dettaglio.md",
+    "Welcome.md"
   ]
 }
